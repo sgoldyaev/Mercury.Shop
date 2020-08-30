@@ -1,0 +1,1 @@
+﻿CREATE DataBase [MercuryDb];
